@@ -8,10 +8,10 @@
 *Le capteur visuel devient complètement aveugle la nuit et dans des conditions de très faible luminosité.*
 
 ## Armement
-### M61 Minigun
-**Canon Gatling de 20 mm.  Tire des munitions de type explosif (HE) . Cadence de tir allant jusqu'à 4 000 coups par minute.**
-* Dommage de base : 60
-* Profondeur de pénétration de l'armure (mm) : 52.8mm
+### GSh-30 autocannon
+**Max duration of single burst is 1 second which means around ~25 bullets can be released in one trigger press.**
+* Dommage de base : 
+* Profondeur de pénétration de l'armure (mm) : 
 ### R-27
 **Missile air-air guidé par infrarouge à courte portée.**
 * Dommage de base : 
