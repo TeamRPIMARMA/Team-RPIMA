@@ -141,6 +141,20 @@ https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-29
 * Vitesse maximale verrouillable (km/h) : 700
 * Profondeur de pénétration de l'armure (mm) : N/A
 
+### R-74 M2 : https://aviationsmilitaires.net/v3/kb/externalload/show/1739/vympel-r-74m-rvv-md
+**Missile air-air guidé par infrarouge à courte portée.**
+* Dommage de base : 190
+* Type de tête explosive : Haute-explosive
+* Rayon de l'explosion (mètres) : 9
+* Rayon de la fusée de proximité (mètres) : 15
+* Vitesse maximale (m/s) : 850
+* Portée de verrouillage maximale (kilomètres) : 8
+* Portée de verrouillage minimale (mètres) : 150
+* Cône de verrouillage (degrés) : 150
+* Champ de vision maximal (degrés) : 150
+* Vitesse maximale verrouillable (km/h) : 700
+* Profondeur de pénétration de l'armure (mm) : N/A
+
 ### R-77 : https://fr.wikipedia.org/wiki/Vympel_R-77
 **Missile air-air guidé par radar actif / Guidage inertiel à longue portée.**
 * Dommage de base : 250
@@ -169,17 +183,31 @@ https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-29
 * Vitesse maximale verrouillable (km/h) : 1000
 * Profondeur de pénétration de l'armure (mm) : N/A
 
-### FAB-100 : https://aviationsmilitaires.net/v3/kb/externalload/show/268/fab-100
+### GBU-SDB
 **Bombe planante guidée**
-* Dommage de base : 1 500
+* Dommage de base : 1 800
 * Type de tête explosive : Haute-explosive
-* Rayon de l'explosion (mètres) : 13
+* Rayon de l'explosion (mètres) : 3
 * Vitesse maximale (m/s) : 100
 * Portée de verrouillage maximale (kilomètres) : 5 (Laser)* / 8 (IR)
 * Portée de verrouillage minimale (mètres) : 100 (Laser)* / 500 (IR)
 * Cône de verrouillage (degrés) : 120° (Laser)* / 180° (IR)
 * Champ de vision maximal (degrés) : 120° (Laser)* / 180° (IR)
 * Vitesse maximale verrouillable (km/h) : 108 (Laser)* / 198 (IR)
+
+### KH-38MAE : https://fr.wikipedia.org/wiki/Kh-38
+**Missile air-sol version à guidage inertiel et radar actif.**
+* Dommage de base : 830 (High-Explosive), 830 (High-Explosive Anti-Tank)
+* Type de tête explosive : Haute-explosive (High-Explosive), Anti-char à charge creuse (High-Explosive Anti-Tank)
+* Rayon de l'explosion (mètres) : 10 (High-Explosive), 8 (High-Explosive Anti-Tank)
+* Rayon de la fusée de proximité (mètres) : N/A (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Vitesse maximale (m/s) : 748
+* Portée de verrouillage maximale (kilomètres) : 6 (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Portée de verrouillage minimale (mètres) : 350 (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Cône de verrouillage (degrés) : 50° (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Champ de vision maximal (degrés) : 30° (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Vitesse maximale verrouillable (km/h) : 55 (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Profondeur de pénétration de l'armure (mm) : N/A (High-Explosive), 1 000 (High-Explosive Anti-Tank)
 
 ### FAB-250 : https://en.wikipedia.org/wiki/FAB-250
 **Bombe planante guidée**
@@ -192,16 +220,3 @@ https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-29
 * Cône de verrouillage (degrés) : 120° (Laser)* / 180° (IR)
 * Champ de vision maximal (degrés) : 120° (Laser)* / 180° (IR)
 * Vitesse maximale verrouillable (km/h) : 108 (Laser)* / 198 (IR)
-
-### FAB-500 : https://en.wikipedia.org/wiki/FAB-500
-**Bombe planante guidée**
-* Dommage de base : 8 000
-* Type de tête explosive : Haute-explosive
-* Rayon de l'explosion (mètres) : 25
-* Vitesse maximale (m/s) : 100
-* Portée de verrouillage maximale (kilomètres) : 5 (Laser)* / 8 (IR)
-* Portée de verrouillage minimale (mètres) : 100 (Laser)* / 500 (IR)
-* Cône de verrouillage (degrés) : 120° (Laser)* / 180° (IR)
-* Champ de vision maximal (degrés) : 120° (Laser)* / 180° (IR)
-* Vitesse maximale verrouillable (km/h) : 108 (Laser)* / 198 (IR)
-
