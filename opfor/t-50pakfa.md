@@ -1,10 +1,10 @@
 ## Description
 
-**Le MiG-29 est un avion de combat bimoteur emblématique conçu en Union soviétique. Max speed: ~1300 km/h**
-https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-29
-* Portée RADAR actif (air/sol) : 23km/ ? km
+**Le PAK FA (en russe ПАК ФА) est un avion de combat multirôle tactique furtif bimoteur monoplace russe de cinquième génération.**
+https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-57
+* Portée RADAR actif (air/sol) : ? km/ ? km
 * Portée RADAR passif (air/sol) : ? km/ ? km
-* Portée Infrarouge (air/sol) : 5km/ ? km
+* Portée Infrarouge (air/sol) : ? km/ ? km
 * Portée Laser/NV (air/sol) : ? km/ ? km
 * Portée Visuelle (aérien/sol) : ? km/ ? km
 *Le capteur visuel devient complètement aveugle la nuit et dans des conditions de très faible luminosité.*
@@ -183,18 +183,6 @@ https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-29
 * Vitesse maximale verrouillable (km/h) : 1000
 * Profondeur de pénétration de l'armure (mm) : N/A
 
-### GBU-SDB
-**Bombe planante guidée**
-* Dommage de base : 1 800
-* Type de tête explosive : Haute-explosive
-* Rayon de l'explosion (mètres) : 3
-* Vitesse maximale (m/s) : 100
-* Portée de verrouillage maximale (kilomètres) : 5 (Laser)* / 8 (IR)
-* Portée de verrouillage minimale (mètres) : 100 (Laser)* / 500 (IR)
-* Cône de verrouillage (degrés) : 120° (Laser)* / 180° (IR)
-* Champ de vision maximal (degrés) : 120° (Laser)* / 180° (IR)
-* Vitesse maximale verrouillable (km/h) : 108 (Laser)* / 198 (IR)
-
 ### KH-38MAE : https://fr.wikipedia.org/wiki/Kh-38
 **Missile air-sol version à guidage inertiel et radar actif.**
 * Dommage de base : 830 (High-Explosive), 830 (High-Explosive Anti-Tank)
@@ -207,7 +195,35 @@ https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-29
 * Cône de verrouillage (degrés) : 50° (High-Explosive), N/A (High-Explosive Anti-Tank)
 * Champ de vision maximal (degrés) : 30° (High-Explosive), N/A (High-Explosive Anti-Tank)
 * Vitesse maximale verrouillable (km/h) : 55 (High-Explosive), N/A (High-Explosive Anti-Tank)
-* Profondeur de pénétration de l'armure (mm) : N/A (High-Explosive), 1 000 (High-Explosive Anti-Tank)
+* Profondeur de pénétration de l'armure (mm) : N/A (High-Explosive), N/A (High-Explosive Anti-Tank)
+
+### KH-38MLE : https://fr.wikipedia.org/wiki/Kh-38
+**Missile air-sol version à guidage laser.**
+* Dommage de base : 830 (High-Explosive), 830 (High-Explosive Anti-Tank)
+* Type de tête explosive : Haute-explosive (High-Explosive), Anti-char à charge creuse (High-Explosive Anti-Tank)
+* Rayon de l'explosion (mètres) : 10 (High-Explosive), 8 (High-Explosive Anti-Tank)
+* Rayon de la fusée de proximité (mètres) : N/A (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Vitesse maximale (m/s) : 748
+* Portée de verrouillage maximale (kilomètres) : 6 (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Portée de verrouillage minimale (mètres) : 350 (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Cône de verrouillage (degrés) : 50° (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Champ de vision maximal (degrés) : 30° (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Vitesse maximale verrouillable (km/h) : 55 (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Profondeur de pénétration de l'armure (mm) : N/A (High-Explosive), N/A (High-Explosive Anti-Tank)
+
+### KH-38MTE : https://fr.wikipedia.org/wiki/Kh-38
+**Missile air-sol version à guidage infrarouge.**
+* Dommage de base : 830 (High-Explosive), 830 (High-Explosive Anti-Tank)
+* Type de tête explosive : Haute-explosive (High-Explosive), Anti-char à charge creuse (High-Explosive Anti-Tank)
+* Rayon de l'explosion (mètres) : 10 (High-Explosive), 8 (High-Explosive Anti-Tank)
+* Rayon de la fusée de proximité (mètres) : N/A (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Vitesse maximale (m/s) : 748
+* Portée de verrouillage maximale (kilomètres) : 6 (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Portée de verrouillage minimale (mètres) : 350 (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Cône de verrouillage (degrés) : 50° (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Champ de vision maximal (degrés) : 30° (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Vitesse maximale verrouillable (km/h) : 55 (High-Explosive), N/A (High-Explosive Anti-Tank)
+* Profondeur de pénétration de l'armure (mm) : N/A (High-Explosive), N/A (High-Explosive Anti-Tank)
 
 ### FAB-250 : https://en.wikipedia.org/wiki/FAB-250
 **Bombe planante guidée**
